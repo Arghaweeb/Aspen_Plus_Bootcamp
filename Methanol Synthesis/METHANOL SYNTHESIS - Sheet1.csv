@@ -1,0 +1,15 @@
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,DSTWU,,,,DISTL,,,,,,Radfrac,,,,
+,Minimum reflux ratio,0.478906248,,,Mole Flows,kmol/hr,399.759856,199.8803039,199.8795522,,Mole Flows,kmol/hr,199.879928,199.879928,49.76021869
+,Actual reflux ratio,1.5,,,CO,kmol/hr,0,0,0,,CO,kmol/hr,0,0,49.28029359
+,Minimum number of stages,4.72291282,,,CO2,kmol/hr,0,0,0,,CO2,kmol/hr,0,0,0.4799251018
+,Number of actual stages,6.69759596,,,H2,kmol/hr,0,0,0,,H2,kmol/hr,0,0,0
+,Feed stage,5.18061717,,,METHANOL,kmol/hr,200.2397812,11.06129599,189.1784852,,METHANOL,kmol/hr,187.3597366,12.88004456,0
+,Number of actual stages above feed,4.18061717,,,WATER,kmol/hr,199.5200748,188.8190079,10.70106695,,WATER,kmol/hr,12.52019139,186.9998835,0
+,Reboiler heating required,1310203.01,cal/sec,,Mole Fractions,,,,,,Mole Fractions,,,,
+,Condenser cooling required,1219041.25,cal/sec,,CO,,0,0,0,,CO,,0,0,0.9903552453
+,Distillate temperature,73.7864744,C,,CO2,,0,0,0,,CO2,,0,0,0.009644754674
+,Bottom temperature,107.763334,C,,H2,,0,0,0,,H2,,0,0,0
+,Distillate to feed fraction,0.500810156,,,METHANOL,,0.5009001734,0.05533970368,0.9464606431,,METHANOL,,0.9373614374,0.06443890936,0
+,HETP,,,,WATER,,0.4990998266,0.9446621768,0.05353747648,,WATER,,0.06263856264,0.9355610906,0
